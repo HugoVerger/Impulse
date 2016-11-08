@@ -3,14 +3,9 @@
 	"EngineAssociation": "4.13",
 	"Category": "",
 	"Description": "",
-	"Modules": [
-		{
-			"Name": "Impulse",
-			"Type": "Runtime",
-			"LoadingPhase": "Default"
-		}
-	],
 	"TargetPlatforms": [
-		"WindowsNoEditor"
+		"WindowsNoEditor",
+		"LinuxNoEditor",
+		"MacNoEditor"
 	]
 }
