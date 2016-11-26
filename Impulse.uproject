@@ -4,8 +4,6 @@
 	"Category": "",
 	"Description": "",
 	"TargetPlatforms": [
-		"WindowsNoEditor",
-		"LinuxNoEditor",
-		"MacNoEditor"
+		"WindowsNoEditor"
 	]
 }
