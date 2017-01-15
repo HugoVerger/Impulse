@@ -1,4 +1,3 @@
-Content/StarterContent/Architecture/Floor_400x400.uasset
 *.VC.db
 *.opendb
 *.xcworkspace
@@ -70,3 +69,5 @@ DerivedDataCache/*
 *.swp
 *.swo
 .ctrlp_cache/
+
+/Floor_400x400.uasset
