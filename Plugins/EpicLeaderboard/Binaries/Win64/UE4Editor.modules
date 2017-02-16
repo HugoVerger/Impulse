@@ -1,0 +1,9 @@
+{
+	"Changelist" : 3195953,
+	"CompatibleChangelist" : 0,
+	"BuildId" : "61d75026-da64-4b85-907e-7942d860829e",
+	"Modules" : 
+	{
+		"EpicLeaderboard" : "UE4Editor-EpicLeaderboard.dll"
+	}
+}
