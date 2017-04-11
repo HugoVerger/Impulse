@@ -1,7 +1,6 @@
 {
-	"Changelist" : 3195953,
-	"CompatibleChangelist" : 0,
-	"BuildId" : "520c09de-9982-47eb-bc1e-b90ef895c70a",
+	"Changelist" : 3299760,
+	"BuildId" : "5a05e1a6-db51-40db-9d87-d78040f034c5",
 	"Modules" : 
 	{
 		"EpicLeaderboard" : "UE4Editor-EpicLeaderboard-Win64-DebugGame.dll"

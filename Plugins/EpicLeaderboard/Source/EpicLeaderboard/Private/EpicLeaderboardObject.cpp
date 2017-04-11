@@ -19,7 +19,7 @@ FString UEpicLeaderboardObject::CleanupName(FString name)
 	//remove special characters
 	std::regex e("[^A-Za-z0-9]");
 
-	std::string clean = std::regex_replace(s, e, "");
+	std::string clean = std::regex_replace(s, e, std::string(""));
 
 	return FString(clean.c_str());
 }
